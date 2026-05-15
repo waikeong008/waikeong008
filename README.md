@@ -1,6 +1,8 @@
 # Hi, I'm Wai Keong 👋
 
-I use this profile to showcase my software engineering projects and growth in systems and backend development.
+![Profile photo](https://github.com/user-attachments/assets/243b4baa-7baa-4ab5-95d5-1a08eccd88d3)
+
+Software engineering student at 42 Kuala Lumpur with foundations in C/C++ programming, Linux, and problem solving, alongside self-directed learning in Java. Transitioning from nearly four years of experience in the financial industry, bringing analytical thinking, discipline, and decision-making skills developed in high-pressure environments. Strong interest in self-directed and peer-to-peer learning, collaborative problem solving, and practical experimentation with AI systems.
 
 ## Focus Areas
 - Systems programming
@@ -8,22 +10,48 @@ I use this profile to showcase my software engineering projects and growth in sy
 - Algorithms and problem solving
 - Clean, maintainable code
 
-## Featured Projects
-- [**minishell**](https://github.com/waikeong008/minishell) — Unix shell in C (pipes, redirection, signals)
-- [**mini_serv**](https://github.com/waikeong008/mini_serv) — Event-driven TCP chat server using `select()`
-- [**philosophers**](https://github.com/waikeong008/philosophers) — Concurrency and synchronization project
-- [**avaj-launcher**](https://github.com/waikeong008/avaj-launcher) — Java OOP simulation with clean architecture
+## Areas of Expertise
+- **Languages:** C/C++, Python, TypeScript, Java, Golang
+- **Tools & Technologies:** Linux, Git, Bash, LangChain
+- **Concepts:** Object-Oriented Programming, Data Structures, Retrieval-Augmented Generation (RAG), Problem Solving
 
-## Currently Learning
-- Java OOP
-- System design fundamentals
-- Advanced problem-solving patterns
+## Notable Projects in 42
+### minishell
+- Built a simplified UNIX shell in C with support for command execution, pipes, redirections, and environment variable handling
+- Implemented process management using fork, execve, and pipe system calls
+- Developed command parsing and signal handling for interactive shell behavior
 
-## Tech Stack
-`C` `Java` `Linux` `Git` `Docker`
+### minirt
+- Developed a minimal ray tracer in C capable of rendering 3D scenes with lighting and object intersections
+- Implemented vector mathematics, ray-object collision detection, and basic lighting calculations
+- Explored graphics rendering concepts, geometric computation, and performance optimization
 
-## Current Goal
-Build strong foundations in systems and backend engineering through challenging, end-to-end projects.
+### webserv
+- Built a custom HTTP server in C++ implementing core HTTP features including request parsing, routing, file serving, and CGI execution
+- Managed socket communication and concurrent client connections using multiplexing mechanisms in Linux
+- Strengthened understanding of networking protocols, server architecture, and low-level system programming
+
+### ft_transcendance
+- Building a full-stack e-commerce platform featuring user authentication, product catalog management, and shopping cart functionality
+- Implementing frontend/backend integration, RESTful APIs, and database-driven workflows
+- Exploring scalable web application design and collaborative development practices
+
+## Hackathons & Other Projects
+### TNG DIGITAL FINHACK 2026
+- Voice AI hackathon MVP for a Touch 'n Go-style fintech "Quick Mode" assistant, built with a Python 3.11 Flask backend (LangChain and SQLite) and a React + Vite + Tailwind frontend, integrating DashScope STT/TTS and deployed behind Nginx on Alibaba Cloud ECS.
+
+### AmBank Hackathon (Finalist) — 2025
+- Developed a full-stack DataOps dashboard using React, TypeScript, Node.js, and Firebase to centralize issue ticketing, track data discrepancies, and provide actionable analytics for banking data quality teams.
+
+### AmBank Hackathon 2 — 2026
+- Built a RAG-based financial analysis assistant that processes PDF financial reports and generates AI-driven risk assessments and accounting red flags.
+- Implemented PDF text extraction, document retrieval workflows, and LLM-based analysis using Node.js, Express.js, and Gemini APIs.
+
+## Contact
+- Phone: 016-7838798
+- Email: waikeong008@gmail.com
+- GitHub: https://github.com/waikeong008
+- LinkedIn: https://www.linkedin.com/in/ho-wai-keong
 
 ---
 If you're hiring or collaborating, feel free to connect through GitHub.
