@@ -1,7 +1,5 @@
 # Hi, I'm Wai Keong 👋
 
-![Profile photo](https://github.com/user-attachments/assets/243b4baa-7baa-4ab5-95d5-1a08eccd88d3)
-
 Software engineering student at 42 Kuala Lumpur with foundations in C/C++ programming, Linux, and problem solving, alongside self-directed learning in Java. Transitioning from nearly four years of experience in the financial industry, bringing analytical thinking, discipline, and decision-making skills developed in high-pressure environments. Strong interest in self-directed and peer-to-peer learning, collaborative problem solving, and practical experimentation with AI systems.
 
 ## Focus Areas
