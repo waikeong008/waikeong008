@@ -66,15 +66,15 @@ Transitioning from nearly four years in the financial industry into software eng
 - Developed a React + Vite + Tailwind frontend with DashScope STT/TTS integration
 - Deployed the application behind Nginx on Alibaba Cloud ECS
 
-### [AmBank Hackathon (Finalist) — 2025](https://github.com/waikeong008/ambank-hackathon)
-- Developed a DataOps dashboard using React, TypeScript, Node.js, and Firebase
-- Centralized issue ticketing and data discrepancy tracking workflows
-- Built analytics features for banking data quality monitoring
-
 ### [AmBank Hackathon 2 — 2026](https://github.com/waikeong008/ambank-hackathon2)
 - Built a RAG-based financial analysis assistant for PDF financial reports
 - Implemented document retrieval workflows and LLM-driven risk analysis
 - Used Node.js, Express.js, and Gemini APIs for AI-assisted financial insights
+
+### [AmBank Hackathon (Finalist) — 2025](https://github.com/waikeong008/ambank-hackathon)
+- Developed a DataOps dashboard using React, TypeScript, Node.js, and Firebase
+- Centralized issue ticketing and data discrepancy tracking workflows
+- Built analytics features for banking data quality monitoring
 
 ---
 
