@@ -52,7 +52,7 @@ Transitioning from nearly four years in the financial industry into software eng
 - Managed socket communication and concurrent client connections using Linux multiplexing mechanisms
 - Strengthened understanding of networking protocols, server architecture, and low-level system programming
 
-### [ft_transcendance](https://github.com/waikeong008/ft_transcendance)
+### [ft_transcendance](https://github.com/waikeong008/ft_transcendance) (ongoing)
 - Building a full-stack web platform featuring authentication, product management, and database-driven workflows
 - Implementing frontend/backend integration and RESTful APIs
 - Exploring scalable web application architecture and collaborative development practices
