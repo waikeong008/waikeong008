@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Wai Keong 👋
 
-<!--
-**waikeong008/waikeong008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use this profile to showcase my software engineering projects and growth in systems and backend development.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Systems programming
+- Backend engineering
+- Algorithms and problem solving
+- Clean, maintainable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [**minishell**](https://github.com/waikeong008/minishell) — Unix shell in C (pipes, redirection, signals)
+- [**mini_serv**](https://github.com/waikeong008/mini_serv) — Event-driven TCP chat server using `select()`
+- [**philosophers**](https://github.com/waikeong008/philosophers) — Concurrency and synchronization project
+- [**avaj-launcher**](https://github.com/waikeong008/avaj-launcher) — Java OOP simulation with clean architecture
+
+## Currently Learning
+- Java OOP
+- System design fundamentals
+- Advanced problem-solving patterns
+
+## Tech Stack
+`C` `Java` `Linux` `Git` `Docker`
+
+## Current Goal
+Build strong foundations in systems and backend engineering through challenging, end-to-end projects.
+
+---
+If you're hiring or collaborating, feel free to connect through GitHub.
