@@ -14,22 +14,22 @@ Software engineering student at 42 Kuala Lumpur with foundations in C/C++ progra
 - **Concepts:** Object-Oriented Programming, Data Structures, Retrieval-Augmented Generation (RAG), Problem Solving
 
 ## Notable Projects in 42
-### minishell
+### [minishell](https://github.com/waikeong008/minishell)
 - Built a simplified UNIX shell in C with support for command execution, pipes, redirections, and environment variable handling
 - Implemented process management using fork, execve, and pipe system calls
 - Developed command parsing and signal handling for interactive shell behavior
 
-### minirt
+### [minirt](https://github.com/waikeong008/minirt)
 - Developed a minimal ray tracer in C capable of rendering 3D scenes with lighting and object intersections
 - Implemented vector mathematics, ray-object collision detection, and basic lighting calculations
 - Explored graphics rendering concepts, geometric computation, and performance optimization
 
-### webserv
+### [webserv](https://github.com/waikeong008/webserv)
 - Built a custom HTTP server in C++ implementing core HTTP features including request parsing, routing, file serving, and CGI execution
 - Managed socket communication and concurrent client connections using multiplexing mechanisms in Linux
 - Strengthened understanding of networking protocols, server architecture, and low-level system programming
 
-### ft_transcendance
+### [ft_transcendance](https://github.com/waikeong008/ft_transcendance)
 - Building a full-stack e-commerce platform featuring user authentication, product catalog management, and shopping cart functionality
 - Implementing frontend/backend integration, RESTful APIs, and database-driven workflows
 - Exploring scalable web application design and collaborative development practices
