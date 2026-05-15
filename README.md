@@ -1,6 +1,6 @@
 # Hi, I'm Wai Keong 👋
 
-Software engineering student at 42 Kuala Lumpur with foundations in C/C++ programming, Linux, and problem solving, alongside self-directed learning in Java. Transitioning from nearly four years of experience in the financial industry, bringing analytical thinking, discipline, and decision-making skills developed in high-pressure environments. Strong interest in self-directed and peer-to-peer learning, collaborative problem solving, and practical experimentation with AI systems.
+Self taught Software engineering at 42 Kuala Lumpur with foundations in C/C++ programming, Linux, and problem solving, alongside self-directed learning in Java. Transitioning from nearly four years of experience in the financial industry, bringing analytical thinking, discipline, and decision-making skills developed in high-pressure environments. Strong interest in self-directed and peer-to-peer learning, collaborative problem solving, and practical experimentation with AI systems.
 
 ## Focus Areas
 - Systems programming
