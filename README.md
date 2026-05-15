@@ -48,7 +48,6 @@ Software engineering student at 42 Kuala Lumpur with foundations in C/C++ progra
 - Implemented PDF text extraction, document retrieval workflows, and LLM-based analysis using Node.js, Express.js, and Gemini APIs.
 
 ## Contact
-- Phone: 016-7838798
 - Email: waikeong008@gmail.com
 - GitHub: https://github.com/waikeong008
 - LinkedIn: https://www.linkedin.com/in/ho-wai-keong
