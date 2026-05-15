@@ -35,13 +35,13 @@ Software engineering student at 42 Kuala Lumpur with foundations in C/C++ progra
 - Exploring scalable web application design and collaborative development practices
 
 ## Hackathons & Other Projects
-### TNG DIGITAL FINHACK 2026
+### [TNG DIGITAL FINHACK 2026](https://github.com/zeposs/tng-finhack)
 - Voice AI hackathon MVP for a Touch 'n Go-style fintech "Quick Mode" assistant, built with a Python 3.11 Flask backend (LangChain and SQLite) and a React + Vite + Tailwind frontend, integrating DashScope STT/TTS and deployed behind Nginx on Alibaba Cloud ECS.
 
-### AmBank Hackathon (Finalist) — 2025
+### [AmBank Hackathon (Finalist) — 2025](https://github.com/waikeong008/ambank-hackathon)
 - Developed a full-stack DataOps dashboard using React, TypeScript, Node.js, and Firebase to centralize issue ticketing, track data discrepancies, and provide actionable analytics for banking data quality teams.
 
-### AmBank Hackathon 2 — 2026
+### [AmBank Hackathon 2 — 2026](https://github.com/waikeong008/ambank-hackathon2)
 - Built a RAG-based financial analysis assistant that processes PDF financial reports and generates AI-driven risk assessments and accounting red flags.
 - Implemented PDF text extraction, document retrieval workflows, and LLM-based analysis using Node.js, Express.js, and Gemini APIs.
 
